@@ -124,6 +124,12 @@
     "short_name": "POPL",
     "type": "conference"
   },
+  "scam": {
+    "dblp_code": "SCAM:",
+    "long_name": "Source Code Analysis and Manipulation",
+    "short_name": "SCAM",
+    "type": "conference"
+  },
   "sle": {
     "dblp_code": "SLE:",
     "long_name": "",
