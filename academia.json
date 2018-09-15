@@ -9,12 +9,14 @@
     "dblp_code": "Autom._Softw._Eng.:",
     "long_name": "Automated Software Engineering Journal",
     "short_name": "ASEJ",
+    "rss" : "https://link.springer.com/search.rss?facet-journal-id=10515",
     "type": "journal"
   },
   "csur": {
     "dblp_code": "ACM_Comput._Surv.: ",
     "long_name": "ACM Computing Surveys",
     "short_name": "CSUR",
+    "rss" : "http://rss.acm.org/dl/J204.xml",
     "type": "journal"
   },
   "ecoop": {
@@ -27,6 +29,7 @@
     "dblp_code": "Empirical_Software_Engineering:",
     "long_name": "",
     "short_name": "EmSE",
+    "rss" : "https://link.springer.com/search.rss?facet-journal-id=10664",
     "type": "journal"
   },
   "fase": {
@@ -81,12 +84,14 @@
     "dblp_code": "Information_%26_Software_Technology:",
     "long_name": "",
     "short_name": "IST",
+    "rss" : "https://rss.sciencedirect.com/publication/science/09505849",
     "type": "journal"
   },
   "jss": {
     "dblp_code": "Journal_of_Systems_and_Software:",
     "long_name": "",
     "short_name": "JSS",
+    "rss" : "https://rss.sciencedirect.com/publication/science/01641212",
     "type": "journal"
   },
   "models": {
@@ -129,42 +134,49 @@
     "dblp_code": "Journal_of_Software_-_Evolution_and_Process:",
     "long_name": "",
     "short_name": "SMRP",
+    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=15320618&type=etoc",
     "type": "journal"
   },
   "sosym": {
     "dblp_code": "Software_and_System_Modeling:",
     "long_name": "",
     "short_name": "SoSyM",
+    "rss" : "https://link.springer.com/search.rss?facet-journal-id=10270",
     "type": "journal"
   },
   "spe": {
     "dblp_code": "Softw.,_Pract._Exper.:",
     "long_name": "",
     "short_name": "SPE",
+    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=1097024x&type=etoc",
     "type": "journal"
   },
   "stvr": {
     "dblp_code": "Softw._Test.,_Verif._Reliab.:",
     "long_name": "",
     "short_name": "STVR",
+    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=10991689&type=etoc",
     "type": "journal"
   },
   "toplas": {
     "dblp_code": "ACM_Trans._Program._Lang._Syst.:",
     "long_name": "",
     "short_name": "TOPLAS",
+    "rss" : "http://rss.acm.org/dl/J783.xml",
     "type": "journal"
   },
   "tosem": {
     "dblp_code": "ACM_Trans._Softw._Eng._Methodol.:",
     "long_name": "",
     "short_name": "TOSEM",
+    "rss" : "http://rss.acm.org/dl/J790.xml",
     "type": "journal"
   },
   "tse": {
     "dblp_code": "IEEE_Trans._Software_Eng.:",
     "long_name": "",
     "short_name": "TSE",
+    "rss" : "https://cs-services.computer.org/rss/periodicals/trans/ts/rss.xml",
     "type": "journal"
   },
   "wcre": {
