@@ -1,0 +1,181 @@
+{
+  "ase": {
+    "dblp_code": "ASE:",
+    "long_name": "",
+    "short_name": "ASE",
+    "type": "conference"
+  },
+  "asej": {
+    "dblp_code": "Autom._Softw._Eng.:",
+    "long_name": "Automated Software Engineering Journal",
+    "short_name": "ASEJ",
+    "type": "journal"
+  },
+  "csur": {
+    "dblp_code": "ACM_Comput._Surv.: ",
+    "long_name": "ACM Computing Surveys",
+    "short_name": "CSUR",
+    "type": "journal"
+  },
+  "ecoop": {
+    "dblp_code": "ECOOP:",
+    "long_name": "",
+    "short_name": "ECOOP",
+    "type": "conference"
+  },
+  "emse": {
+    "dblp_code": "Empirical_Software_Engineering:",
+    "long_name": "",
+    "short_name": "EmSE",
+    "type": "journal"
+  },
+  "fase": {
+    "dblp_code": "FASE:",
+    "long_name": "",
+    "short_name": "FASE",
+    "type": "conference"
+  },
+  "fse": {
+    "dblp_code": [
+      "ESEC/SIGSOFT_FSE:",
+      "SIGSOFT_FSE:"
+    ],
+    "long_name": "",
+    "short_name": "ESEC/FSE",
+    "type": "conference"
+  },
+  "icse": {
+    "dblp_code": "ICSE:",
+    "long_name": "International Conference on Software Engineering",
+    "short_name": "ICSE",
+    "type": "conference"
+  },
+  "icsm": {
+    "dblp_code": [
+      "ICSM:",
+      "ICSME:"
+    ],
+    "long_name": "",
+    "short_name": "ICSME",
+    "type": "conference"
+  },
+  "icst": {
+    "dblp_code": "ICST:",
+    "long_name": "",
+    "short_name": "ICST",
+    "type": "conference"
+  },
+  "issre": {
+    "dblp_code": "ISSRE:",
+    "long_name": "",
+    "short_name": "ISSRE",
+    "type": "conference"
+  },
+  "issta": {
+    "dblp_code": "ISSTA:",
+    "long_name": "",
+    "short_name": "ISSTA",
+    "type": "conference"
+  },
+  "ist": {
+    "dblp_code": "Information_%26_Software_Technology:",
+    "long_name": "",
+    "short_name": "IST",
+    "type": "journal"
+  },
+  "jss": {
+    "dblp_code": "Journal_of_Systems_and_Software:",
+    "long_name": "",
+    "short_name": "JSS",
+    "type": "journal"
+  },
+  "models": {
+    "dblp_code": "MoDELS:",
+    "long_name": "",
+    "short_name": "MODELS",
+    "type": "conference"
+  },
+  "msr": {
+    "dblp_code": "MSR:",
+    "long_name": "",
+    "short_name": "MSR",
+    "type": "conference"
+  },
+  "oopsla": {
+    "dblp_code": "OOPSLA:",
+    "long_name": "",
+    "short_name": "OOPSLA",
+    "type": "conference"
+  },
+  "pldi": {
+    "dblp_code": "PLDI:",
+    "long_name": "",
+    "short_name": "PLDI",
+    "type": "conference"
+  },
+  "popl": {
+    "dblp_code": "POPL:",
+    "long_name": "",
+    "short_name": "POPL",
+    "type": "conference"
+  },
+  "sle": {
+    "dblp_code": "SLE:",
+    "long_name": "",
+    "short_name": "SLE",
+    "type": "conference"
+  },
+  "smrp": {
+    "dblp_code": "Journal_of_Software_-_Evolution_and_Process:",
+    "long_name": "",
+    "short_name": "SMRP",
+    "type": "journal"
+  },
+  "sosym": {
+    "dblp_code": "Software_and_System_Modeling:",
+    "long_name": "",
+    "short_name": "SoSyM",
+    "type": "journal"
+  },
+  "spe": {
+    "dblp_code": "Softw.,_Pract._Exper.:",
+    "long_name": "",
+    "short_name": "SPE",
+    "type": "journal"
+  },
+  "stvr": {
+    "dblp_code": "Softw._Test.,_Verif._Reliab.:",
+    "long_name": "",
+    "short_name": "STVR",
+    "type": "journal"
+  },
+  "toplas": {
+    "dblp_code": "ACM_Trans._Program._Lang._Syst.:",
+    "long_name": "",
+    "short_name": "TOPLAS",
+    "type": "journal"
+  },
+  "tosem": {
+    "dblp_code": "ACM_Trans._Softw._Eng._Methodol.:",
+    "long_name": "",
+    "short_name": "TOSEM",
+    "type": "journal"
+  },
+  "tse": {
+    "dblp_code": "IEEE_Trans._Software_Eng.:",
+    "long_name": "",
+    "short_name": "TSE",
+    "type": "journal"
+  },
+  "wcre": {
+    "dblp_code": [
+      "WCRE:",
+      "CSMR:",
+      "SANER:",
+      "CSMR-WCRE:"
+    ],
+    "long_name": "",
+    "short_name": "SANER",
+    "type": "conference"
+  }
+}
