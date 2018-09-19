@@ -27,7 +27,7 @@
   },
   "emse": {
     "dblp_code": "Empirical_Software_Engineering:",
-    "long_name": "",
+    "long_name": "Empirical Software Engineering Journal (Springer)",
     "short_name": "EmSE",
     "rss" : "https://link.springer.com/search.rss?facet-journal-id=10664",
     "type": "journal"
@@ -180,7 +180,7 @@
   },
   "toplas": {
     "dblp_code": "ACM_Trans._Program._Lang._Syst.:",
-    "long_name": "",
+    "long_name": "ACM Transactions on Programming Languages and Systems",
     "short_name": "TOPLAS",
     "rss" : "http://rss.acm.org/dl/J783.xml",
     "type": "journal"
