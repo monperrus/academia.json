@@ -82,9 +82,16 @@
   },
   "ist": {
     "dblp_code": "Information_%26_Software_Technology:",
-    "long_name": "Information and Software Technology",
+    "long_name": "Information and Software Technology (Elsevier)",
     "short_name": "IST",
     "rss" : "https://rss.sciencedirect.com/publication/science/09505849",
+    "type": "journal"
+  },
+  "ist": {
+    "dblp_code": "Sci._Comput._Program.:",
+    "long_name": "Science of Computer Programming (Elsevier)",
+    "short_name": "SCP",
+    "rss" : "https://rss.sciencedirect.com/publication/science/01676423",
     "type": "journal"
   },
   "jss": {
