@@ -209,5 +209,11 @@
     "long_name": "",
     "short_name": "SANER",
     "type": "conference"
+  },
+  "dsn": {
+    "dblp_code": "DSN:",
+    "long_name": "Dependable Systems and Networks",
+    "short_name": "DSN",
+    "type": "conference"
   }
 }
