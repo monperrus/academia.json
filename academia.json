@@ -157,6 +157,13 @@
     "rss" : "https://link.springer.com/search.rss?facet-journal-id=10270",
     "type": "journal"
   },
+  "sqj": {
+    "dblp_code": "Software_Quality_Journal:",
+    "long_name": "Software Quality Journal (Springer)",
+    "short_name": "SQJ",
+    "rss" : "http://link.springer.com/search.rss?facet-journal-id=11219",
+    "type": "journal"
+  },  
   "spe": {
     "dblp_code": "Softw.,_Pract._Exper.:",
     "long_name": "Software: Practice and Experience (Wiley)",
