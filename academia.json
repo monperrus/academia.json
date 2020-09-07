@@ -215,5 +215,13 @@
     "long_name": "Dependable Systems and Networks",
     "short_name": "DSN",
     "type": "conference"
+  },
+  "programming": {
+    "dblp_code": [
+      "Programming:"
+    ],
+    "long_name": "",
+    "short_name": "Programming",
+    "type": "conference"
   }
 }
