@@ -206,6 +206,13 @@
     "rss" : "https://ieeexplore.ieee.org/rss/TOC32.XML",
     "type": "journal"
   },
+  "tdsc": {
+    "dblp_code": "IEEE_Trans._Dependable_Secur._Comput.",
+    "long_name": "IEEE Transactions on Dependable and Secure Computing",
+    "short_name": "TDSC",
+    "rss" : "https://ieeexplore.ieee.org/rss/TOC8858.XML",
+    "type": "journal"
+  },
   "wcre": {
     "dblp_code": [
       "WCRE",
