@@ -95,7 +95,7 @@
     "type": "journal"
   },
   "jss": {
-    "dblp_code": "Journal_of_Systems_and_Software:",
+    "dblp_code": "J._Syst._Softw.:",
     "long_name": "Journal of Systems and Software",
     "short_name": "JSS",
     "rss" : "https://rss.sciencedirect.com/publication/science/01641212",
@@ -143,36 +143,43 @@
     "short_name": "SLE",
     "type": "conference"
   },
+  "jsep": {
+    "dblp_code": "J._Softw._Evol._Process.:",
+    "long_name": "Journal of Software: Evolution and Process",
+    "short_name": "JSEP",
+    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=20477481&type=etoc",
+    "type": "journal"
+  },
   "smrp": {
-    "dblp_code": "Journal_of_Software_-_Evolution_and_Process:",
+    "dblp_code": "J._Softw._Maintenance_Res._Pract.:",
     "long_name": "Journal of Software Maintenance and Evolution: Research and Practice",
     "short_name": "SMRP",
     "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=15320618&type=etoc",
     "type": "journal"
   },
   "sosym": {
-    "dblp_code": "Software_and_System_Modeling:",
+    "dblp_code": "Softw._Syst._Model.:",
     "long_name": "Software and Systems Modeling (Springer)",
     "short_name": "SoSyM",
     "rss" : "https://link.springer.com/search.rss?facet-journal-id=10270",
     "type": "journal"
   },
   "sqj": {
-    "dblp_code": "Software_Quality_Journal:",
+    "dblp_code": "Softw._Qual._J.:",
     "long_name": "Software Quality Journal (Springer)",
     "short_name": "SQJ",
     "rss" : "http://link.springer.com/search.rss?facet-journal-id=11219",
     "type": "journal"
   },  
   "spe": {
-    "dblp_code": "Softw.,_Pract._Exper.:",
+    "dblp_code": "Softw._Pract._Exp.:",
     "long_name": "Software: Practice and Experience (Wiley)",
     "short_name": "SPE",
     "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=1097024x&type=etoc",
     "type": "journal"
   },
   "stvr": {
-    "dblp_code": "Softw._Test.,_Verif._Reliab.:",
+    "dblp_code": "Softw._Test._Verification_Reliab.:",
     "long_name": "Software Testing, Verification and Reliability (Wiley)",
     "short_name": "STVR",
     "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=10991689&type=etoc",
