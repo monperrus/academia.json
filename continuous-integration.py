@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # checks that all DBLP code names are correct
+# runs monthly on Travis
 
 import json
 import requests
@@ -11,7 +12,7 @@ for i,v in data.items():
   if type(codes) == str: codes = [codes]
   
   for x in codes:
-    dblp_data = requests.get('https://dblp.org/search/publ/api/?q=venue:'+x+'&format=json').json()['result']['hits']
+    dblp_data = requests.get('https://dblp.org/search/publ/api/?q=venue:'+x+':&format=json').json()['result']['hits']
     if 'hit' not in dblp_data or len(dblp_data['hit']) < 30:
       raise Exception(x)
     print(x,len(dblp_data['hit']))
