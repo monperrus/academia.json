@@ -237,5 +237,12 @@
     "long_name": "",
     "short_name": "Programming",
     "type": "conference"
+  },
+  "trel": {
+    "dblp_code": "IEEE_Trans._Reliab.",
+    "long_name": "IEEE Transactions on Reliability",
+    "short_name": "TR",
+    "rss" : "https://ieeexplore.ieee.org/rss/TOC24.XML",
+    "type": "journal"
   }
 }
