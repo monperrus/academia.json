@@ -87,7 +87,7 @@
     "rss" : "https://rss.sciencedirect.com/publication/science/09505849",
     "type": "journal"
   },
-  "ist": {
+  "scp": {
     "dblp_code": "Sci._Comput._Program.",
     "long_name": "Science of Computer Programming (Elsevier)",
     "short_name": "SCP",
