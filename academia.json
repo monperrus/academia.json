@@ -13,7 +13,7 @@
     "type": "journal"
   },
   "csur": {
-    "dblp_code": "ACM_Comput._Surv.: ",
+    "dblp_code": "ACM_Comput._Surv.",
     "long_name": "ACM Computing Surveys",
     "short_name": "CSUR",
     "rss" : "http://rss.acm.org/dl/J204.xml",
