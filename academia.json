@@ -1,44 +1,44 @@
-{
-  "ase": {
+[
+  {
     "dblp_code": "ASE",
     "long_name": "",
     "short_name": "ASE",
     "type": "conference"
   },
-  "asej": {
+  {
     "dblp_code": "Autom._Softw._Eng.",
     "long_name": "Automated Software Engineering Journal",
     "short_name": "ASEJ",
     "rss" : "https://link.springer.com/search.rss?facet-journal-id=10515",
     "type": "journal"
   },
-  "csur": {
+  {
     "dblp_code": "ACM_Comput._Surv.",
     "long_name": "ACM Computing Surveys",
     "short_name": "CSUR",
     "rss" : "http://rss.acm.org/dl/J204.xml",
     "type": "journal"
   },
-  "ecoop": {
+  {
     "dblp_code": "ECOOP",
     "long_name": "",
     "short_name": "ECOOP",
     "type": "conference"
   },
-  "emse": {
+  {
     "dblp_code": "Empir._Softw._Eng.",
     "long_name": "Empirical Software Engineering Journal (Springer)",
     "short_name": "EmSE",
     "rss" : "https://link.springer.com/search.rss?facet-journal-id=10664",
     "type": "journal"
   },
-  "fase": {
+  {
     "dblp_code": "FASE",
     "long_name": "",
     "short_name": "FASE",
     "type": "conference"
   },
-  "fse": {
+  {
     "dblp_code": [
       "ESEC/SIGSOFT_FSE",
       "SIGSOFT_FSE"
@@ -47,13 +47,13 @@
     "short_name": "ESEC-FSE",
     "type": "conference"
   },
-  "icse": {
+  {
     "dblp_code": "ICSE",
     "long_name": "International Conference on Software Engineering",
     "short_name": "ICSE",
     "type": "conference"
   },
-  "icsm": {
+  {
     "dblp_code": [
       "ICSM",
       "ICSME"
@@ -62,158 +62,158 @@
     "short_name": "ICSME",
     "type": "conference"
   },
-  "icst": {
+  {
     "dblp_code": "ICST",
     "long_name": "",
     "short_name": "ICST",
     "type": "conference"
   },
-  "issre": {
+  {
     "dblp_code": "ISSRE",
     "long_name": "",
     "short_name": "ISSRE",
     "type": "conference"
   },
-  "issta": {
+  {
     "dblp_code": "ISSTA",
     "long_name": "",
     "short_name": "ISSTA",
     "type": "conference"
   },
-  "ist": {
+  {
     "dblp_code": "Inf._Softw._Technol.",
     "long_name": "Information and Software Technology (Elsevier)",
     "short_name": "IST",
     "rss" : "https://rss.sciencedirect.com/publication/science/09505849",
     "type": "journal"
   },
-  "scp": {
+  {
     "dblp_code": "Sci._Comput._Program.",
     "long_name": "Science of Computer Programming (Elsevier)",
     "short_name": "SCP",
     "rss" : "https://rss.sciencedirect.com/publication/science/01676423",
     "type": "journal"
   },
-  "jss": {
+  {
     "dblp_code": "J._Syst._Softw.",
     "long_name": "Journal of Systems and Software",
     "short_name": "JSS",
     "rss" : "https://rss.sciencedirect.com/publication/science/01641212",
     "type": "journal"
   },
-  "models": {
+  {
     "dblp_code": "MoDELS",
     "long_name": "",
     "short_name": "MODELS",
     "type": "conference"
   },
-  "msr": {
+  {
     "dblp_code": "MSR",
     "long_name": "",
     "short_name": "MSR",
     "type": "conference"
   },
-  "oopsla": {
+  {
     "dblp_code": "OOPSLA",
     "long_name": "",
     "short_name": "OOPSLA",
     "type": "conference"
   },
-  "pldi": {
+  {
     "dblp_code": "PLDI",
     "long_name": "",
     "short_name": "PLDI",
     "type": "conference"
   },
-  "popl": {
+  {
     "dblp_code": "POPL",
     "long_name": "",
     "short_name": "POPL",
     "type": "conference"
   },
-  "scam": {
+  {
     "dblp_code": "SCAM",
     "long_name": "Source Code Analysis and Manipulation",
     "short_name": "SCAM",
     "type": "conference"
   },
-  "sle": {
+  {
     "dblp_code": "SLE",
     "long_name": "",
     "short_name": "SLE",
     "type": "conference"
   },
-  "jsep": {
+  {
     "dblp_code": "J._Softw._Evol._Process.",
     "long_name": "Journal of Software: Evolution and Process",
     "short_name": "JSEP",
     "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=20477481&type=etoc",
     "type": "journal"
   },
-  "smrp": {
+  {
     "dblp_code": "J._Softw._Maintenance_Res._Pract.",
     "long_name": "Journal of Software Maintenance and Evolution: Research and Practice",
     "short_name": "SMRP",
     "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=15320618&type=etoc",
     "type": "journal"
   },
-  "sosym": {
+  {
     "dblp_code": "Softw._Syst._Model.",
     "long_name": "Software and Systems Modeling (Springer)",
     "short_name": "SoSyM",
     "rss" : "https://link.springer.com/search.rss?facet-journal-id=10270",
     "type": "journal"
   },
-  "sqj": {
+  {
     "dblp_code": "Softw._Qual._J.",
     "long_name": "Software Quality Journal (Springer)",
     "short_name": "SQJ",
     "rss" : "http://link.springer.com/search.rss?facet-journal-id=11219",
     "type": "journal"
   },  
-  "spe": {
+  {
     "dblp_code": "Softw._Pract._Exp.",
     "long_name": "Software: Practice and Experience (Wiley)",
     "short_name": "SPE",
     "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=1097024x&type=etoc",
     "type": "journal"
   },
-  "stvr": {
+  {
     "dblp_code": "Softw._Test._Verification_Reliab.",
     "long_name": "Software Testing, Verification and Reliability (Wiley)",
     "short_name": "STVR",
     "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=10991689&type=etoc",
     "type": "journal"
   },
-  "toplas": {
+  {
     "dblp_code": "ACM_Trans._Program._Lang._Syst.",
     "long_name": "ACM Transactions on Programming Languages and Systems",
     "short_name": "TOPLAS",
     "rss" : "http://rss.acm.org/dl/J783.xml",
     "type": "journal"
   },
-  "tosem": {
+  {
     "dblp_code": "ACM_Trans._Softw._Eng._Methodol.",
     "long_name": "ACM Transactions on Software Engineering and Methodology",
     "short_name": "TOSEM",
     "rss" : "http://rss.acm.org/dl/J790.xml",
     "type": "journal"
   },
-  "tse": {
+  {
     "dblp_code": "IEEE_Trans._Software_Eng.",
     "long_name": "IEEE Transactions on Software Engineering",
     "short_name": "TSE",
     "rss" : "https://ieeexplore.ieee.org/rss/TOC32.XML",
     "type": "journal"
   },
-  "tdsc": {
+  {
     "dblp_code": "IEEE_Trans._Dependable_Secur._Comput.",
     "long_name": "IEEE Transactions on Dependable and Secure Computing",
     "short_name": "TDSC",
     "rss" : "https://ieeexplore.ieee.org/rss/TOC8858.XML",
     "type": "journal"
   },
-  "wcre": {
+  {
     "dblp_code": [
       "WCRE",
       "CSMR",
@@ -224,13 +224,13 @@
     "short_name": "SANER",
     "type": "conference"
   },
-  "dsn": {
+  {
     "dblp_code": "DSN",
     "long_name": "Dependable Systems and Networks",
     "short_name": "DSN",
     "type": "conference"
   },
-  "programming": {
+  {
     "dblp_code": [
       "Programming"
     ],
@@ -238,11 +238,11 @@
     "short_name": "Programming",
     "type": "conference"
   },
-  "trel": {
+  {
     "dblp_code": "IEEE_Trans._Reliab.",
     "long_name": "IEEE Transactions on Reliability",
     "short_name": "TR",
     "rss" : "https://ieeexplore.ieee.org/rss/TOC24.XML",
     "type": "journal"
   }
-}
+]
