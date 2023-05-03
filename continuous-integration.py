@@ -7,7 +7,7 @@ import requests
 
 data = json.load(open('academia.json'))
 
-for i,v in data.items():
+for v in data:
   codes = v['dblp_code']
   if type(codes) == str: codes = [codes]
   
