@@ -9,15 +9,17 @@
     "dblp_code": "Autom._Softw._Eng.",
     "long_name": "Automated Software Engineering Journal",
     "short_name": "ASEJ",
-    "rss" : "https://link.springer.com/search.rss?facet-journal-id=10515",
-    "type": "journal"
+    "rss": "https://link.springer.com/search.rss?facet-journal-id=10515",
+    "type": "journal",
+    "issn": "0928-8910"
   },
   {
     "dblp_code": "ACM_Comput._Surv.",
     "long_name": "ACM Computing Surveys",
     "short_name": "CSUR",
-    "rss" : "http://rss.acm.org/dl/J204.xml",
-    "type": "journal"
+    "rss": "http://rss.acm.org/dl/J204.xml",
+    "type": "journal",
+    "issn": "0360-0300"
   },
   {
     "dblp_code": "ECOOP",
@@ -29,8 +31,9 @@
     "dblp_code": "Empir._Softw._Eng.",
     "long_name": "Empirical Software Engineering Journal (Springer)",
     "short_name": "EmSE",
-    "rss" : "https://link.springer.com/search.rss?facet-journal-id=10664",
-    "type": "journal"
+    "rss": "https://link.springer.com/search.rss?facet-journal-id=10664",
+    "type": "journal",
+    "issn": "1382-3256"
   },
   {
     "dblp_code": "FASE",
@@ -84,21 +87,23 @@
     "dblp_code": "Inf._Softw._Technol.",
     "long_name": "Information and Software Technology (Elsevier)",
     "short_name": "IST",
-    "rss" : "https://rss.sciencedirect.com/publication/science/09505849",
-    "type": "journal"
+    "rss": "https://rss.sciencedirect.com/publication/science/09505849",
+    "type": "journal",
+    "issn": "0950-5849"
   },
   {
     "dblp_code": "Sci._Comput._Program.",
     "long_name": "Science of Computer Programming (Elsevier)",
     "short_name": "SCP",
-    "rss" : "https://rss.sciencedirect.com/publication/science/01676423",
-    "type": "journal"
+    "rss": "https://rss.sciencedirect.com/publication/science/01676423",
+    "type": "journal",
+    "issn": "0167-6423"
   },
   {
     "dblp_code": "J._Syst._Softw.",
     "long_name": "Journal of Systems and Software",
     "short_name": "JSS",
-    "rss" : "https://rss.sciencedirect.com/publication/science/01641212",
+    "rss": "https://rss.sciencedirect.com/publication/science/01641212",
     "type": "journal"
   },
   {
@@ -147,71 +152,80 @@
     "dblp_code": "J._Softw._Evol._Process.",
     "long_name": "Journal of Software: Evolution and Process",
     "short_name": "JSEP",
-    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=20477481&type=etoc",
-    "type": "journal"
+    "rss": "https://onlinelibrary.wiley.com/action/showFeed?jc=20477481&type=etoc",
+    "type": "journal",
+    "issn": "2047-7473"
   },
   {
     "dblp_code": "J._Softw._Maintenance_Res._Pract.",
     "long_name": "Journal of Software Maintenance and Evolution: Research and Practice",
     "short_name": "SMRP",
-    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=15320618&type=etoc",
-    "type": "journal"
+    "rss": "https://onlinelibrary.wiley.com/action/showFeed?jc=15320618&type=etoc",
+    "type": "journal",
+    "issn": "1532-060X"
   },
   {
     "dblp_code": "Softw._Syst._Model.",
     "long_name": "Software and Systems Modeling (Springer)",
     "short_name": "SoSyM",
-    "rss" : "https://link.springer.com/search.rss?facet-journal-id=10270",
-    "type": "journal"
+    "rss": "https://link.springer.com/search.rss?facet-journal-id=10270",
+    "type": "journal",
+    "issn": "1619-1366"
   },
   {
     "dblp_code": "Softw._Qual._J.",
     "long_name": "Software Quality Journal (Springer)",
     "short_name": "SQJ",
-    "rss" : "http://link.springer.com/search.rss?facet-journal-id=11219",
+    "rss": "http://link.springer.com/search.rss?facet-journal-id=11219",
     "type": "journal"
-  },  
+  },
   {
     "dblp_code": "Softw._Pract._Exp.",
     "long_name": "Software: Practice and Experience (Wiley)",
     "short_name": "SPE",
-    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=1097024x&type=etoc",
-    "type": "journal"
+    "rss": "https://onlinelibrary.wiley.com/action/showFeed?jc=1097024x&type=etoc",
+    "type": "journal",
+    "issn": "0038-0644"
   },
   {
     "dblp_code": "Softw._Test._Verification_Reliab.",
     "long_name": "Software Testing, Verification and Reliability (Wiley)",
     "short_name": "STVR",
-    "rss" : "https://onlinelibrary.wiley.com/action/showFeed?jc=10991689&type=etoc",
-    "type": "journal"
+    "rss": "https://onlinelibrary.wiley.com/action/showFeed?jc=10991689&type=etoc",
+    "type": "journal",
+    "issn": "0960-0833"
   },
   {
     "dblp_code": "ACM_Trans._Program._Lang._Syst.",
     "long_name": "ACM Transactions on Programming Languages and Systems",
     "short_name": "TOPLAS",
-    "rss" : "http://rss.acm.org/dl/J783.xml",
-    "type": "journal"
+    "rss": "http://rss.acm.org/dl/J783.xml",
+    "type": "journal",
+    "issn": "0164-0925"
   },
   {
     "dblp_code": "ACM_Trans._Softw._Eng._Methodol.",
     "long_name": "ACM Transactions on Software Engineering and Methodology",
     "short_name": "TOSEM",
-    "rss" : "http://rss.acm.org/dl/J790.xml",
-    "type": "journal"
+    "rss": "http://rss.acm.org/dl/J790.xml",
+    "type": "journal",
+    "issn": "1049-331X"
   },
   {
     "dblp_code": "IEEE_Trans._Software_Eng.",
     "long_name": "IEEE Transactions on Software Engineering",
     "short_name": "TSE",
-    "rss" : "https://ieeexplore.ieee.org/rss/TOC32.XML",
-    "type": "journal"
+    "rss": "https://ieeexplore.ieee.org/rss/TOC32.XML",
+    "type": "journal",
+    "issn": "0098-5589"
   },
   {
     "dblp_code": "IEEE_Trans._Dependable_Secur._Comput.",
     "long_name": "IEEE Transactions on Dependable and Secure Computing",
     "short_name": "TDSC",
-    "rss" : "https://ieeexplore.ieee.org/rss/TOC8858.XML",
-    "type": "journal"
+    "rss": "https://ieeexplore.ieee.org/rss/TOC8858.XML",
+    "type": "journal",
+    "issn": "1545-5971"
   },
   {
     "dblp_code": [
@@ -226,7 +240,7 @@
   },
   {
     "dblp_code": "DSN",
-    "long_name": "Dependable Systems and Networks",
+    "long_name": "",
     "short_name": "DSN",
     "type": "conference"
   },
@@ -242,7 +256,8 @@
     "dblp_code": "IEEE_Trans._Reliab.",
     "long_name": "IEEE Transactions on Reliability",
     "short_name": "TR",
-    "rss" : "https://ieeexplore.ieee.org/rss/TOC24.XML",
-    "type": "journal"
+    "rss": "https://ieeexplore.ieee.org/rss/TOC24.XML",
+    "type": "journal",
+    "issn": "0018-9529"
   }
 ]
