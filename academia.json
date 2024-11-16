@@ -54,7 +54,8 @@
     "dblp_code": "ICSE",
     "long_name": "International Conference on Software Engineering",
     "short_name": "ICSE",
-    "type": "conference"
+    "type": "conference",
+    "issn": "0270-5257"
   },
   {
     "dblp_code": [
@@ -231,8 +232,8 @@
     "dblp_code": [
       "WCRE",
       "CSMR",
-      "SANER",
-      "CSMR-WCRE"
+      "CSMR-WCRE",
+      "SANER"
     ],
     "long_name": "",
     "short_name": "SANER",
