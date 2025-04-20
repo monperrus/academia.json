@@ -43,11 +43,10 @@
   },
   {
     "dblp_code": [
-      "ESEC/SIGSOFT_FSE",
-      "SIGSOFT_FSE"
+      "SIGSOFT"
     ],
-    "long_name": "",
-    "short_name": "ESEC-FSE",
+    "long_name": "Foundations of Software Engineering",
+    "short_name": "FSE",
     "type": "conference"
   },
   {
