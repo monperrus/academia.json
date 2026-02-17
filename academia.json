@@ -6,6 +6,14 @@
     "type": "conference"
   },
   {
+    "dblp_code": "IEEE_Trans._Reliab.",
+    "long_name": "IEEE Transactions on Reliability",
+    "short_name": "TR",
+    "rss": "https://ieeexplore.ieee.org/rss/TOC24.XML",
+    "type": "journal",
+    "issn": "1558-1721"
+  },
+  {
     "dblp_code": "Autom._Softw._Eng.",
     "long_name": "Automated Software Engineering Journal",
     "short_name": "ASEJ",
