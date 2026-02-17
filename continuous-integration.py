@@ -5,9 +5,12 @@
 import json
 import requests
 import time
+import random
 
 data = json.load(open('academia.json'))
+random.shuffle(data)
 
+ndblp = 0
 for v in data:
   codes = v['dblp_code']
   if type(codes) == str: codes = [codes]
@@ -57,10 +60,17 @@ for v in data:
       raise Exception("rss not correct "+ str(resp_rss.status_code)+ " "+ str(v))
     print(v["rss"], "ok HTTP 200")
 
-  for x in codes:
+  sample_codes = random.sample(codes, min(2, len(codes)))
+  for x in sample_codes:
     try:
-      resp = requests.get('https://dblp.org/search/publ/api/?q=venue:'+x+':&format=json')
-      # api is rate limitaed but I don't know how, 
+      if ndblp > 5:
+        print("reached 100, stopping to avoid hitting rate limit")
+        break
+      url = 'https://dblp.org/search/publ/api/?q=venue:'+x+':&format=json'
+      print("checking dblp code", url)
+      resp = requests.get(url)
+      ndblp += 1
+      # api is rate limited but I don't know how, 
       # .5 is not enough
       time.sleep(2)
       if resp.status_code != 200:
