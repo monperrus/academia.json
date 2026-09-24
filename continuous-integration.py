@@ -66,19 +66,28 @@ for v in data:
       if ndblp > 5:
         print("reached 100, stopping to avoid hitting rate limit")
         break
-      url = 'https://dblp.org/search/publ/api/?q=venue:'+x+':&format=json'
+      # DBLP requires an app=<app-name>_<version> parameter on every API request
+      url = 'https://dblp.org/search/publ/api/?q=venue:'+x+':&format=json&app=academia-json_1.0'
       print("checking dblp code", url)
-      resp = requests.get(url)
+      # DBLP sporadically answers 5xx/429 or drops connections, retry with backoff
+      resp = None
+      for attempt in range(4):
+        try:
+          resp = requests.get(url, timeout=30)
+        except requests.RequestException as e:
+          print("dblp request failed:", e)
+        # api is rate limited but I don't know how,
+        # .5 is not enough
+        time.sleep(2 * 2**attempt)
+        if resp is not None and resp.status_code == 200: break
       ndblp += 1
-      # api is rate limited but I don't know how, 
-      # .5 is not enough
-      time.sleep(2)
-      if resp.status_code != 200:
-        print(resp.status_code)
-        print(resp.headers)
+      if resp is None or resp.status_code != 200:
         # there is some rate limit
-        print(resp.text) # The user has sent too many requests in a given amount of time.
-        
+        # The user has sent too many requests in a given amount of time.
+        # DBLP being unavailable says nothing about academia.json, don't fail
+        print("WARNING: dblp unavailable, skipping", x, resp.status_code if resp is not None else "")
+        continue
+
       dblp_data = resp.json()['result']['hits']
       if 'hit' not in dblp_data or len(dblp_data['hit']) < 30:
         raise Exception(x)
