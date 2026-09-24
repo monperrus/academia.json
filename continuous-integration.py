@@ -56,9 +56,13 @@ for v in data:
     and "ieeexplore.ieee.org" not in  v["rss"] \
     :
     resp_rss = requests.get(v["rss"], headers = {"user-agent":"Mozilla/5.0"})
-    if resp_rss.status_code != 200:
+    # wiley 403s requests coming from GitHub Actions runners: bot blocking, not a broken feed
+    if resp_rss.status_code in (403, 418, 429):
+      print("WARNING: rss blocked, not checked", resp_rss.status_code, v["rss"])
+    elif resp_rss.status_code != 200:
       raise Exception("rss not correct "+ str(resp_rss.status_code)+ " "+ str(v))
-    print(v["rss"], "ok HTTP 200")
+    else:
+      print(v["rss"], "ok HTTP 200")
 
   sample_codes = random.sample(codes, min(2, len(codes)))
   for x in sample_codes:
